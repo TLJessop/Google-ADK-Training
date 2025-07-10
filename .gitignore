@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*$py.class
+*.so
+
+# Virtual Environment
+.venv/
+env/
+
+# IDE and Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local settings
+.env
+.env.local
+
+# Logs
+*.log
+.pytest_cache/
+cover/
+
+# Environments
+.env
+.venv
+env/
+.venv/
